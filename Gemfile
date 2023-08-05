@@ -72,3 +72,5 @@ group :test do
 end
 
 gem "devise", "~> 4.9"
+
+gem "audited", "~> 5.3"
